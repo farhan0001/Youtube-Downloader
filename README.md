@@ -45,4 +45,8 @@ This project is a **YouTube Downloader** desktop application developed for Windo
 ## Screenshots
 
 1. GUI
+
 ![GUI](app_screenshots/App_GUI.png)
+
+## Contact
+- **Email**: farhanquamar2021@gmail.com
